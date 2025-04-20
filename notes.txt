@@ -1,0 +1,16 @@
+
+OOP = 
+
+contstructor => __construct()
+destructor => __destruct();
+
+inheritance
+Pranets => Child
+
+Access Modifier
+
+public => The property or method can be accessed from everywher . This default
+protected => The property or method can be accessed within the class and by classes derived from the class
+private => The property or method can be accessed within the class
+
+MVC (OOP)
